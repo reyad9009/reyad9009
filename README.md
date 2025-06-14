@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarek Rahman</h1>
 <h3 align="center">Junior MERN Stack Developer | Expert in React & Modern UI | Building Scalable & Dynamic Web Solutions</h3>
 <img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="coding">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pgrmrmortuja&label=Profile%20views&color=0e75b6&style=flat" alt="pgrmrmortuja" /> </p>
+<p align="left"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/8930b329502133.55f6b199518e9.gif" alt="reyad9009" /> </p>
 
 - 🌱 I’m currently learning **web developing.**
 
