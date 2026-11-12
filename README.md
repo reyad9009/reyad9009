@@ -1,82 +1,151 @@
-# Hi 👋, I'm Tarek Rahman
+<!-- ============ ANIMATED HEADER ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Tarek%20Rahman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Junior%20MERN%20Stack%20Developer%20%7C%20React.js%20Specialist&descSize=18&descAlignY=58" alt="Header" />
+</p>
 
-### Junior MERN Stack Developer | React.js Specialist | Frontend & Full-Stack Web Developer
+<!-- ============ TYPING ANIMATION ============ -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Tarek+Rahman;Junior+MERN+Stack+Developer+%F0%9F%92%BB;React.js+Specialist+%E2%9A%9B%EF%B8%8F;Turning+ideas+into+digital+experiences+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%8C%B1" alt="Typing SVG" />
+  </a>
+</p>
 
-I am a passionate Junior MERN Stack Developer focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into functional digital experiences using modern web technologies.
-
-- 💻 Focused on **MERN Stack Development**
-- ⚛️ Specializing in **React.js and Modern UI Development**
-- 🌱 Continuously learning and improving my development skills
-- 🚀 Interested in building dynamic and scalable web applications
-- 🎯 Goal: To become a skilled Full-Stack Developer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to work" />
+</p>
 
 ---
 
-### 🌐 Connect With Me
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="https://www.facebook.com/tarek.rahman.483355" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="40" />
+I'm a passionate **Junior MERN Stack Developer** who loves building modern, responsive, and user-friendly web applications, turning ideas into functional digital experiences.
+
+| | |
+|---|---|
+| 💻 **Focus** | MERN Stack Development |
+| ⚛️ **Specialty** | React.js & Modern UI Development |
+| 🌱 **Currently** | Continuously learning & improving |
+| 🚀 **Interested in** | Dynamic, scalable web applications |
+| 🎯 **Goal** | Become a skilled Full-Stack Developer |
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,firebase,git,github,figma,vscode,postman&perline=7" alt="Tech stack" />
   </a>
+</p>
+
+<details>
+<summary><b>🎨 Frontend</b> (click to expand)</summary>
+<br>
+
+- **HTML5, CSS3, JavaScript (ES6+)**
+- **React.js**: components, hooks, routing, state management
+- **Tailwind CSS**: responsive, utility-first styling
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend</b> (click to expand)</summary>
+<br>
+
+- **Node.js & Express.js**: REST APIs, middleware
+- **MongoDB**: schemas, CRUD, aggregation basics
+- **Firebase**: authentication & hosting
+
+</details>
+
+<details>
+<summary><b>🧰 Tools</b> (click to expand)</summary>
+<br>
+
+- **Git & GitHub**: version control, collaboration
+- **Figma**: turning designs into code
+- **Postman & VS Code**: API testing and daily workflow
+
+</details>
+
+---
+
+## 📌 Featured Projects
+
+<!-- Replace repo names with your own projects -->
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" alt="Project 1" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" alt="Project 2" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+### 🐍 Contribution Snake
+
+<!-- Needs the GitHub Action in .github/workflows/snake.yml (provided separately) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 💬 Quote of the Moment <sub>(refreshes on reload)</sub>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/tarek-rahman-494892355/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn" height="35" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
----
-
-### 🛠️ Languages & Technologies
-
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+  <a href="https://www.facebook.com/tarek.rahman.483355" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="45" height="45"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <i>⭐ If you like my work, drop a star on my repos. Building, learning, and growing every day. 🚀</i>
 </p>
 
----
-
+<!-- ============ ANIMATED FOOTER ============ -->
 <p align="center">
-  <i>Building, Learning, and Growing Every Day. 🚀</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" />
 </p>
